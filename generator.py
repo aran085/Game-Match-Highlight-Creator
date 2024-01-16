@@ -20,3 +20,23 @@ window_length = chunk_size * sample_rate
 
 #seeing an audio sample and it's time-amplitude graph
 a=vid[5*window_length:6*window_length] 
+ipd.Audio(a, rate=sample_rate)
+energy = sum(abs(a**2))
+print(energy)
+fig = plt.figure(figsize=(14, 8)) 
+ax1 = fig.add_subplot(211) 
+ax1.set_xlabel('Time') 
+ax1.set_ylabel('Amplitude') 
+ax1.plot(a)
+
+#Plotting short time energy distribution histogram of all chunks
+energy = np.array([sum(abs(vid[i:i+window_length]**2)) for i in range(0, len(vid), window_length)])
+plt.hist(energy) 
+plt.show()
+#Close graphs for progress of program
+
+#Finding and setting threshold value of commentator and audience noise above which we want to include portion in highlights.
+df=pd.DataFrame(columns=['energy','start','end'])
+thresh=300
+row_index=0
+for i in range(len(energy)):
