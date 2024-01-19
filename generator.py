@@ -67,3 +67,24 @@ df.drop(temp,axis=0,inplace=True)
 #Extracting subclips from the video file on the basis of energy profile obtained from audio file.
 start=np.array(df['start'])
 end=np.array(df['end'])
+
+#Create temporary folder for storing subclips generated. This folder will be deleted later after highlights are generated. 
+cwd=os.getcwd()
+sub_folder=os.path.join(cwd,"Subclips")
+if os.path.exists(sub_folder):
+	shutil.rmtree(sub_folder)
+	path=os.mkdir(sub_folder)
+else:
+	path=os.mkdir(sub_folder)
+#print(sub_folder,type(sub_folder))
+
+#Extract moments from videos to be added in highlight
+print(df)
+for i in range(len(df)):
+	if(i!=0):
+		start_lim = start[i] - 5  #Assuming that noise starts after the shot, so set start point as t-5 seconds to include the shot/wicket action.
+	else:
+		start_lim = start[i] 
+	end_lim   = end[i]   
+	filename="highlight" + str(i+1) + ".mp4"
+	ffmpeg_extract_subclip("M27 KKR vs RCB  – Match Highlights.mp4",start_lim,end_lim,targetname=sub_folder+"/"+filename) #Enter your sports video clip name here.
