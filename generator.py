@@ -40,3 +40,30 @@ df=pd.DataFrame(columns=['energy','start','end'])
 thresh=300
 row_index=0
 for i in range(len(energy)):
+	value=energy[i]
+	if(value>=thresh):
+		i=np.where(energy == value)[0]
+		df.loc[row_index,'energy']=value
+		df.loc[row_index,'start']=i[0] * 5
+		df.loc[row_index,'end']=(i[0]+1) * 5
+		row_index= row_index + 1
+
+#Merge consecutive time intervals of audio clips into one.
+temp=[]
+i,j,n=0,0,len(df) - 1
+while(i<n):
+	j=i+1
+	while(j<=n):
+		if(df['end'][i] == df['start'][j]):
+			df.loc[i,'end'] = df.loc[j,'end']
+			temp.append(j)
+			j=j+1
+		else:
+			i=j
+			break  
+df.drop(temp,axis=0,inplace=True)
+
+
+#Extracting subclips from the video file on the basis of energy profile obtained from audio file.
+start=np.array(df['start'])
+end=np.array(df['end'])
