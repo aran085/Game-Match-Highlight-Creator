@@ -1,1 +1,1 @@
-<h1 align="center">:football: Sports Highlight
+<h1 align="center">:football: Sports Highlights Generator :cricket:</h1
