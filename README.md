@@ -7,3 +7,8 @@
 [![made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 <br>
+
+</div>
+
+
+Whether it's cr
