@@ -15,4 +15,4 @@ Whether it's cricket, or football, we always wish to watch the highlights of the
 
 This project is aimed at obtaining highlights from the full match video, without using *computer vision and NLP!* Yes, you read that right.
 
-We always think that obtain
+We always think that obtaining such videos would 
