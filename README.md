@@ -19,4 +19,6 @@ We always think that obtaining such videos would require deep learning and stuff
 
 The main aim of doing this project was to get myself acquainted with audio and video processing libraries in Python3.6.
 
-### T
+### TODOs:
+
+* [ ] Devel
