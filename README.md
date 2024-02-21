@@ -17,4 +17,6 @@ This project is aimed at obtaining highlights from the full match video, without
 
 We always think that obtaining such videos would require deep learning and stuff to generate. But what if we could do so, by applying some simple concepts of energy threshold in audio waves to get a basic highlights package, if not as good as state-of-the-art? :grin:
 
-The main aim of doing this project was to get myself acquainted with audio and video processing libraries i
+The main aim of doing this project was to get myself acquainted with audio and video processing libraries in Python3.6.
+
+### T
