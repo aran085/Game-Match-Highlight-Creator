@@ -22,4 +22,5 @@ The main aim of doing this project was to get myself acquainted with audio and v
 ### TODOs:
 
 * [ ] Develop a GUI to upload a full video and press download for highlights.
-* [ ] Automatically generate the audio file for the video file
+* [ ] Automatically generate the audio file for the video file uploaded by user.
+* [ ] Make the va
