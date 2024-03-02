@@ -25,4 +25,4 @@ The main aim of doing this project was to get myself acquainted with audio and v
 * [ ] Automatically generate the audio file for the video file uploaded by user.
 * [ ] Make the variable parameters like sample rate,filename,chunk size, threshold, etc. settable via Terminal/GUI.
 * [ ] Reduce the latency time by splitting the video and then parallelizing the process of highlight extraction.
-* [x] Automa
+* [x] Automatically delete the highlig
