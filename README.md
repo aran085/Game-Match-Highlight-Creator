@@ -27,3 +27,5 @@ The main aim of doing this project was to get myself acquainted with audio and v
 * [ ] Reduce the latency time by splitting the video and then parallelizing the process of highlight extraction.
 * [x] Automatically delete the highlight subclips being generated.
 
+
+P.S.: For some sample vide
