@@ -28,4 +28,4 @@ The main aim of doing this project was to get myself acquainted with audio and v
 * [x] Automatically delete the highlight subclips being generated.
 
 
-P.S.: For some sample video and audio, kindly click [h
+P.S.: For some sample video and audio, kindly click [here](https://drive.google.c
