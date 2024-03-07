@@ -30,4 +30,4 @@ The main aim of doing this project was to get myself acquainted with audio and v
 
 P.S.: For some sample video and audio, kindly click [here](https://drive.google.com/open?id=1bWfQat17fmmpBo92w698C2sxRxBEztnk). This contains two match video and audio files and also the script generated highlights:
 
-1. India 
+1. India vs Australia 2007 Wor
