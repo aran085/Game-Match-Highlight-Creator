@@ -34,4 +34,5 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 2. KKR vs RCB (RCB 49 All out).
 
 ## To run this project:
-* [Fork](https://github.com/aran085/Game-Match-Highlight-Creator) this R
+* [Fork](https://github.com/aran085/Game-Match-Highlight-Creator) this Repository.
+* Open Terminal 
