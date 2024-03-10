@@ -35,4 +35,4 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 
 ## To run this project:
 * [Fork](https://github.com/aran085/Game-Match-Highlight-Creator) this Repository.
-* Open Terminal 
+* Open Terminal and enter the folder 'Ga
