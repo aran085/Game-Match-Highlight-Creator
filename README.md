@@ -37,4 +37,4 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 * [Fork](https://github.com/aran085/Game-Match-Highlight-Creator) this Repository.
 * Open Terminal and enter the folder 'Game-Match-Highlight-Creator'.
 * `pip3 install -r requirements.txt`
-* Download the full match video and it's 
+* Download the full match video and it's audio file in the present w
