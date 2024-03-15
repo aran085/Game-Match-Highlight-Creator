@@ -38,4 +38,5 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 * Open Terminal and enter the folder 'Game-Match-Highlight-Creator'.
 * `pip3 install -r requirements.txt`
 * Download the full match video and it's audio file in the present working directory.
-* Set variables for input audio and video filenames and desired output filename in code. (This will soon be changed to argumen
+* Set variables for input audio and video filenames and desired output filename in code. (This will soon be changed to arguments from terminal!)
+* Run
