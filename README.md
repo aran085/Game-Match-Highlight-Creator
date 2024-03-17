@@ -41,4 +41,4 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 * Set variables for input audio and video filenames and desired output filename in code. (This will soon be changed to arguments from terminal!)
 * Run `python3 generator.py`
 * Wait while the highlights file is cooking! :alarm_clock:
-* Voila! 
+* Voila! You have your highlight
