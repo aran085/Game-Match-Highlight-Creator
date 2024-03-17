@@ -40,4 +40,4 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 * Download the full match video and it's audio file in the present working directory.
 * Set variables for input audio and video filenames and desired output filename in code. (This will soon be changed to arguments from terminal!)
 * Run `python3 generator.py`
-* Wait while the h
+* Wait while the highlights file is cooking! :
