@@ -43,4 +43,5 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 * Wait while the highlights file is cooking! :alarm_clock:
 * Voila! You have your highlights package ready. :fire:
 
-#### This project still has scope of development, so you can also contribute to this Project 
+#### This project still has scope of development, so you can also contribute to this Project as follows:
+* [Fork](https:/
