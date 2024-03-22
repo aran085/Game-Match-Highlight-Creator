@@ -44,4 +44,4 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 * Voila! You have your highlights package ready. :fire:
 
 #### This project still has scope of development, so you can also contribute to this Project as follows:
-* [Fork](https://github.com/aran085/Game
+* [Fork](https://github.com/aran085/Game-Match-Highlight-Creator) this
