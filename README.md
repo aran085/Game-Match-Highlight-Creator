@@ -46,4 +46,5 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 #### This project still has scope of development, so you can also contribute to this Project as follows:
 * [Fork](https://github.com/aran085/Game-Match-Highlight-Creator) this Repository.
 * Clone your Fork on a different branch:
-  * `git clone -b <name-of-branch> https://github.com/aran085/Game-Match-
+  * `git clone -b <name-of-branch> https://github.com/aran085/Game-Match-Highlight-Creator.git`
+* 
