@@ -48,4 +48,5 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 * Clone your Fork on a different branch:
   * `git clone -b <name-of-branch> https://github.com/aran085/Game-Match-Highlight-Creator.git`
 * After adding any feature:
-  * Goto your 
+  * Goto your fork and create a pull request.
+ 
