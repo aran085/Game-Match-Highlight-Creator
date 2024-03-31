@@ -51,4 +51,7 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
   * Goto your fork and create a pull request.
   * I will test your modifications and merge changes.
 
-This project was done `in my free time under 4 hours with no pre-preparat
+This project was done `in my free time under 4 hours with no pre-preparation.`
+
+---
+<h3 align="cente
