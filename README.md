@@ -54,4 +54,4 @@ P.S.: For some sample video and audio, kindly click [here](https://drive.google.
 This project was done `in my free time under 4 hours with no pre-preparation.`
 
 ---
-<h3 align="center"><b>Developed with :heart: by <a href="https
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/aran085">a
